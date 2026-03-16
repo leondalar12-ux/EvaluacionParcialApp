@@ -3,6 +3,13 @@
 
 
 
+Aqui se muestra la interfaz de nuestro aplicativo para nuestra pasteleria llamada "DULCE AMOR",donde muestra  en la parte superior  el nombre de nuestra pastelerìa y su logo, seguidamente hemos colocado imagen referente a un postre, en este caso "TRES LECHES",e indicando de bajo de ella una pequeña información de su elaboración, seguidamente hay para calificar mediante estrellas la calidad del servicio,  e indicar las porciones a comprar.Luego esta habilitado la opcion de compras  para realizar los pedidos.
+
+<img width="480" height="957" alt="image" src="https://github.com/user-attachments/assets/409942ba-3f74-47f1-865d-881c92139ef6" />
+
+
+
+
 
 
                     
@@ -179,3 +186,6 @@ si quieren colocar un título hacerlo con un solo # y si desean subtítulo con #
         app:layout_constraintVertical_bias="0.579" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
