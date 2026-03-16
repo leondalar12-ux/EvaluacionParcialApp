@@ -6,9 +6,12 @@
 Aqui se muestra la interfaz de nuestro aplicativo para nuestra pasteleria llamada "DULCE AMOR",donde muestra  en la parte superior  el nombre de nuestra pastelerìa y su logo, seguidamente hemos colocado imagen referente a un postre, en este caso "TRES LECHES",e indicando de bajo de ella una pequeña información de su elaboración, seguidamente hay para calificar mediante estrellas la calidad del servicio,  e indicar las porciones a comprar.Luego esta habilitado la opcion de compras  para realizar los pedidos.
 
 <img width="480" height="957" alt="image" src="https://github.com/user-attachments/assets/409942ba-3f74-47f1-865d-881c92139ef6" /> 
+
 En esta fase se muestra el interfaz final de la aplicación, con unsa imagen centrada de la torta de 3 leches, su descripción centrada , asi mismo botones  de compra y agregar al carrito al marcar cambian de color, un widget de calificación el froma de estrellas amararillas que al seleccionar cambian o oscurecen.
 
 
+<img width="343" height="593" alt="image" src="https://github.com/user-attachments/assets/1a06a8d1-ca92-4f65-879c-f3564fa98fdc" />
+Esta imagen muestra la plantilla blanca que es la base de la aplicación, aqui se realizan los cambios que se pueden observar , sirven para organizar los elemntos como las imagenes, texto, botones y widgets.
 
 
 
