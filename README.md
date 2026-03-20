@@ -43,12 +43,10 @@ Aqui se muestra la imagen de fondo como sello de agua de la empresa.
 Se muestra en esta imagen el nombre de nuestro postre.
 
 ![WhatsApp Image 2026-03-15 at 12 31 55 AM](https://github.com/user-attachments/assets/fe546403-5e11-47b7-86ff-f0d1a2780ab4)
-En esta imagen se muestra el detalle de nuestro postre, de que esta elaborado.
+En esta imagen se muestra el detalle del postre de que esta elaborado.
 
 <img width="1304" height="964" alt="image" src="https://github.com/user-attachments/assets/2d49ed0a-cb56-49f3-96e0-bfbc1420b7fc" />
-Aqui se muestra cambio el color de la letra que fue cambiado y centrado
-
-
+Aqui se muestra de la cantidad de postres que van hacer consumidos.
 
 
 
