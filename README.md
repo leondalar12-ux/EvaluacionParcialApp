@@ -7,6 +7,9 @@ Aqui se muestra la interfaz de nuestro aplicativo para nuestra pasteleria llamad
 
 <img width="480" height="957" alt="image" src="https://github.com/user-attachments/assets/409942ba-3f74-47f1-865d-881c92139ef6" /> 
 
+## 3. Imagen final de la descripción : 
+<img width="635" height="426" alt="image" src="https://github.com/user-attachments/assets/aa582d0d-7a1d-4511-b2a9-e201594af389" />
+
 En esta fase se muestra el interfaz final de la aplicación, con una imagen centrada de la torta de 3 leches, su descripción centrada , asi mismo botones  de compra y agregar al carrito al marcar cambian de color, un widget de calificación el froma de estrellas amararillas que al seleccionar cambian o oscurecen.
 
 
