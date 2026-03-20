@@ -23,7 +23,7 @@ Esta imagen muestra la plantilla blanca que es la base de la aplicación, aqui s
 
 En esta imagen observamos la referencias visuales que hemos realizado en la plantilla blanca que nos  ayudan  para la implementación de nuestro Android Studio.
 
-## 5. Elementos utilizados :
+## 6. Elementos utilizados :
 ### Imágenes: 
 Aqui observamos las imagenes que hemos cargado
 <img width="209" height="125" alt="image" src="https://github.com/user-attachments/assets/bc4f4ca0-83d3-47b9-bfa9-2e007ca9e344" />
@@ -37,6 +37,16 @@ En esta otra imahen se  muestra la imagen del postre, que en esta oportunidad es
 Aqui se muestra la imagen de fondo como sello de agua de la empresa.
 <img width="569" height="416" alt="image" src="https://github.com/user-attachments/assets/91ea627d-d2e0-46f8-ab4c-7a339ff81011" />
 
+### Texto:
+
+![WhatsApp Image 2026-03-15 at 12 39 59 AM](https://github.com/user-attachments/assets/4d4bd1db-63d3-4cac-bf42-98b56d4b77fa)
+Se muestra en esta imagen el nombre de nuestro postre.
+
+![WhatsApp Image 2026-03-15 at 12 31 55 AM](https://github.com/user-attachments/assets/fe546403-5e11-47b7-86ff-f0d1a2780ab4)
+En esta imagen se muestra el detalle de nuestro postre, de que esta elaborado.
+
+<img width="1304" height="964" alt="image" src="https://github.com/user-attachments/assets/2d49ed0a-cb56-49f3-96e0-bfbc1420b7fc" />
+Aqui se muestra cambio el color de la letra que fue cambiado y centrado
 
 
 
