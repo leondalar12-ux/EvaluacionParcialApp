@@ -48,9 +48,15 @@ En esta imagen se muestra el detalle del postre de que esta elaborado.
 <img width="1304" height="964" alt="image" src="https://github.com/user-attachments/assets/2d49ed0a-cb56-49f3-96e0-bfbc1420b7fc" />
 Aqui se muestra de la cantidad de postres que van hacer consumidos.
 
+### Aporte: 
 
+- Cambié el color y tamaño de los textos para dar jerarquía, en el título lo hice más grande y en rojo, descripción más pequeña y en color negro.
 
-                    
+- Asi mismo la imagen con scaleType="centerCrop" para que se vea completa y estética.
+
+- Cambie el color de los botones con backgroundTint y el color del texto con textColor para diferenciar acciones, que cuando hacemos clic en comprar, de rosa cambia a morado y el otro boton de aumentar al carrito cambia lo inverso.
+
+- Se coloco un fondo de pantalla en sello de agua.
 
 
 
@@ -65,6 +71,8 @@ Se debe cambiar en textos el color y tamaño según convenga
 En widget cambiar color
 En botones cambiar el color del botón y el color del texto
 si quieren colocar un título hacerlo con un solo # y si desean subtítulo con #
+
+
  <CODE>
  <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
