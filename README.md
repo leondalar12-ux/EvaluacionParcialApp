@@ -40,13 +40,13 @@ Aqui se muestra la imagen de fondo como sello de agua de la empresa.
 ### Texto:
 
 ![WhatsApp Image 2026-03-15 at 12 39 59 AM](https://github.com/user-attachments/assets/4d4bd1db-63d3-4cac-bf42-98b56d4b77fa)
-Se muestra en esta imagen el nombre de nuestro postre.
+Se muestra en esta imagen el nombre de nuestro postre, que se realizo en TexView.
 
 ![WhatsApp Image 2026-03-15 at 12 31 55 AM](https://github.com/user-attachments/assets/fe546403-5e11-47b7-86ff-f0d1a2780ab4)
-En esta imagen se muestra el detalle del postre de que esta elaborado.
+En esta imagen se muestra el detalle del postre de que esta elaborado,se cambio el color del texto y se realizo en TexView.
 
 <img width="1304" height="964" alt="image" src="https://github.com/user-attachments/assets/2d49ed0a-cb56-49f3-96e0-bfbc1420b7fc" />
-Aqui se muestra de la cantidad de postres que van hacer consumidos.
+Aqui se muestra de la cantidad de postres que van hacer consumidos y se realizo en TexView.
 
 ### Aporte: 
 
