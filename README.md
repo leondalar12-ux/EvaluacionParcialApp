@@ -58,13 +58,18 @@ Aqui se muestra de la cantidad de postres que van hacer consumidos.
 
 - Se coloco un fondo de pantalla en sello de agua.
 
+### Widget:
+![WhatsApp Image 2026-03-15 at 12 41 51 AM](https://github.com/user-attachments/assets/dfa331eb-9044-444a-a67f-d4d4b3153a46)
+
+<img width="119" height="28" alt="image" src="https://github.com/user-attachments/assets/18b1ad7f-5716-4528-9ebc-dccac85f66e3" />
+
+En esta imagen detalal que hemos utilizado RatingBar que mediante estrellas valoramos la excelencia del producto.
+
+### Botones
 
 
 
-Todos tienen lo sgte:
-Imagen
-Texto
-Aporte
+
 Widget
 Botones Explicar que atributos usaron y sustentar para cada elemento.
 Se debe cambiar en textos el color y tamaño según convenga
