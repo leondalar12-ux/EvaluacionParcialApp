@@ -12,9 +12,11 @@ Aqui se muestra la interfaz de nuestro aplicativo para nuestra pasteleria llamad
 
 En esta fase se muestra el interfaz final de la aplicación, con una imagen centrada de la torta de 3 leches, su descripción centrada , asi mismo botones  de compra y agregar al carrito al marcar cambian de color, un widget de calificación el froma de estrellas amararillas que al seleccionar cambian o oscurecen.
 
-
+## 4. Imagen de plantilla blanca: 
 <img width="343" height="593" alt="image" src="https://github.com/user-attachments/assets/1a06a8d1-ca92-4f65-879c-f3564fa98fdc" />
 Esta imagen muestra la plantilla blanca que es la base de la aplicación, aqui se realizan los cambios que se pueden observar , sirven para organizar los elemntos como las imagenes, texto, botones y widgets.
+
+
 
 
 
