@@ -23,19 +23,26 @@ Esta imagen muestra la plantilla blanca que es la base de la aplicación, aqui s
 
 En esta imagen observamos la referencias visuales que hemos realizado en la plantilla blanca que nos  ayudan  para la implementación de nuestro Android Studio.
 
+## 5. Elementos utilizados :
+### Imágenes: 
+Aqui observamos las imagenes que hemos cargado
+<img width="209" height="125" alt="image" src="https://github.com/user-attachments/assets/bc4f4ca0-83d3-47b9-bfa9-2e007ca9e344" />
+
+En esta imagen muestra el logo de la empresa.
+<img width="766" height="420" alt="image" src="https://github.com/user-attachments/assets/c4771d0d-e34e-4312-af59-a33bebd492fe" />
+
+En esta otra imahen se  muestra la imagen del postre, que en esta oportunidad es del postre de 3 leches.
+<img width="554" height="353" alt="image" src="https://github.com/user-attachments/assets/30fdaae1-39fa-422f-b649-8e7d09ad18ad" />
+
+Aqui se muestra la imagen de fondo como sello de agua de la empresa.
+<img width="569" height="416" alt="image" src="https://github.com/user-attachments/assets/91ea627d-d2e0-46f8-ab4c-7a339ff81011" />
+
+
 
 
 
 
                     
-
-Colocar el titulo de tu app
-Colocar una descripción de la aplicación
-Imagen final de la aplicación terminada con pequeña explicación.
-Imagen de la Plantilla blanca donde se realiza la aplicación con explicación.
-Imagen de la plantilla turquesa (maqueta de la app)
-
-
 
 
 
