@@ -67,8 +67,9 @@ En esta imagen detalal que hemos utilizado RatingBar que mediante estrellas valo
 
 ### Botones
 
+![WhatsApp Image 2026-03-15 at 12 30 51 AM](https://github.com/user-attachments/assets/758f410e-2608-4f0f-830e-4478a0997524)
 
-
+Se utilizo textcolor para poder cambiar el color de texto, y el backgroundTint para poder cambiar  el color del boton.
 
 Widget
 Botones Explicar que atributos usaron y sustentar para cada elemento.
