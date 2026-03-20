@@ -1,6 +1,7 @@
 # EvaluacionParcialApp
 ## 1.   Titulo de la Aplicación:
 ### Pastelería "Dulce Amor"
+
 ## 2.  Descripción de la aplicación
 Aqui se muestra la interfaz de nuestro aplicativo para nuestra pasteleria llamada "DULCE AMOR",donde muestra  en la parte superior  el nombre de nuestra pastelerìa y su logo, seguidamente hemos colocado imagen referente a un postre, en este caso "TRES LECHES",e indicando de bajo de ella una pequeña información de su elaboración, seguidamente hay para calificar mediante estrellas la calidad del servicio,  e indicar las porciones a comprar.Luego esta habilitado la opcion de compras  para realizar los pedidos.
 
