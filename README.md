@@ -14,8 +14,13 @@ En esta fase se muestra el interfaz final de la aplicación, con una imagen cent
 
 ## 4. Imagen de plantilla blanca: 
 <img width="343" height="593" alt="image" src="https://github.com/user-attachments/assets/1a06a8d1-ca92-4f65-879c-f3564fa98fdc" />
+
 Esta imagen muestra la plantilla blanca que es la base de la aplicación, aqui se realizan los cambios que se pueden observar , sirven para organizar los elemntos como las imagenes, texto, botones y widgets.
 
+## 5. Imagen de plantilla turquesa :
+<img width="172" height="327" alt="image" src="https://github.com/user-attachments/assets/4c958d77-7cb6-446a-91b8-d3d43642ff52" />
+
+En esta imagen observamos la referencias visuales que hemos realizado en la plantilla blanca que nos  ayudan  para la implementación de nuestro Android Studio.
 
 
 
