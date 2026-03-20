@@ -71,12 +71,6 @@ En esta imagen detalal que hemos utilizado RatingBar que mediante estrellas valo
 
 Se utilizo textcolor para poder cambiar el color de texto, y el backgroundTint para poder cambiar  el color del boton.
 
-Widget
-Botones Explicar que atributos usaron y sustentar para cada elemento.
-Se debe cambiar en textos el color y tamaño según convenga
-En widget cambiar color
-En botones cambiar el color del botón y el color del texto
-si quieren colocar un título hacerlo con un solo # y si desean subtítulo con #
 
 
  <CODE>
